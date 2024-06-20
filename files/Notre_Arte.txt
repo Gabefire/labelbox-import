@@ -1,4 +1,3 @@
-gs://labelbox-datasets/notre-arte/
 gs://labelbox-datasets/notre-arte/1.jpg
 gs://labelbox-datasets/notre-arte/10.jpg
 gs://labelbox-datasets/notre-arte/100.jpg

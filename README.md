@@ -1,6 +1,6 @@
 # Populate Labelbox Workspace
 
-These scripts are designed to populate Labelbox Workspaces with public data for testing purposes.
+These scripts are designed to populate a Labelbox Workspaces with public data for testing purposes.
 
 ## Regular Data Rows
 

@@ -1,4 +1,3 @@
-gs://labelbox-datasets/kinetics/videos/
 gs://labelbox-datasets/kinetics/videos/--GEr5-PyTI.mp4
 gs://labelbox-datasets/kinetics/videos/--GkrdYZ9Tc.mp4
 gs://labelbox-datasets/kinetics/videos/--lrRHlpK68.mp4

@@ -1,4 +1,3 @@
-gs://labelbox-datasets/rottentomatoes/
 gs://labelbox-datasets/rottentomatoes/014gg7anqi_negative_validation_.txt
 gs://labelbox-datasets/rottentomatoes/017sryb925_negative_train_.txt
 gs://labelbox-datasets/rottentomatoes/01mockypnx_positive_train_.txt

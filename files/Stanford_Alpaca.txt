@@ -1,4 +1,3 @@
-gs://labelbox-datasets/stanford_alpaca/
 gs://labelbox-datasets/stanford_alpaca/0_train_stanford_alpaca.txt
 gs://labelbox-datasets/stanford_alpaca/10000_train_stanford_alpaca.txt
 gs://labelbox-datasets/stanford_alpaca/10001_train_stanford_alpaca.txt
