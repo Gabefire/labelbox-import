@@ -5,7 +5,7 @@ API_KEY = None
 
 data_rows = []
 
-for file_name in os.listdir("./files"):
+for file_name in os.listdir("./files_tile"):
     with open(f"./files_tile/{file_name}", "r") as file:
         for line in file.readlines():
             if not line:
