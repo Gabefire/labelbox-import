@@ -12,9 +12,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - id: download labelbox
+      - id: download-labelbox
         run: pip install labelbox
-      - id: import data rows
+      - id: import-data-rows
         run: python import.py
-      - id: import geospatial
+      - id: import-geospatial
         run: python import_tile.py
