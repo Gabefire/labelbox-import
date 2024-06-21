@@ -19,7 +19,7 @@ for file_name in os.listdir("./files_geospatial"):
 
     client = lb.Client(API_KEY)
 
-    dataset = client.create_dataset(name=file_name.replace("_", " ").rstrip(".txt"), iam_integration=None)
+    dataset = client.create_dataset(name=file_name.replace("_", " ").rstrip("\.txt"), iam_integration=None)
 
     task = dataset.create_data_rows(data_rows)
     task.wait_till_done()
