@@ -8,7 +8,7 @@ The main script is `import.py`. Run this script, and it will parse through the t
 
 ## Geospatial Data Rows
 
-The `import_tile.py` script imports tile data. It does the same thing as the `import.py` script but uses the `files_tile` folder.
+The `import_tile.py` script imports tile data. It does the same thing as the `import.py` script but uses the `files_geospatial` folder.
 
 ## Workflow
 
