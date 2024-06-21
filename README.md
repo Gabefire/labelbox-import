@@ -9,3 +9,10 @@ The main script is `import.py` run this script and it will parse through the tex
 ## Geospatial Data Rows
 
 The `import_tile.py` script is uses to import tile data. It does the same thing as the `import.py` script but uses the `files_tile` folder.
+
+## Workflow
+
+A GitHub action workflow is created to populate your workspace through the cloud. Just fork this repo, add your Labelbox API key inside the repo secrets name `LABELBOX_API_KEY,` go to the Actions tab, click the workflow on the right-side panel, and select run on the top of the main panel.
+
+<img width="1716" alt="Screenshot 2024-06-21 at 9 23 03 AM" src="https://github.com/Gabefire/labelbox-import/assets/33893811/15e94d94-4025-44c3-bf54-f10c8bce448c">
+<img width="1728" alt="Screenshot 2024-06-21 at 9 22 18 AM" src="https://github.com/Gabefire/labelbox-import/assets/33893811/f805b552-2fbe-49d2-aaa1-ea9cae4d5266">
